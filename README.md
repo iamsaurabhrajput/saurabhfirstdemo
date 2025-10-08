@@ -1,3 +1,3 @@
 # saurabhfirstdemo
-This is my first repository
-author- Saurabh Rajput 
+This is my first repository.
+author- Saurabh Rajput.
